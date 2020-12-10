@@ -16,7 +16,7 @@ void Ellipse::WedElips() {
 
 void Ellipse::PrintElips()
 {
-	cout << "x^2/(" << a * a << ")+y^2/(" << b * b << ")=1"<<endl;
+	cout << "x^2/(" << a * a << ")+y^2/(" << b * b << ")=1" << endl;
 }
 
 float Ellipse::Square()
